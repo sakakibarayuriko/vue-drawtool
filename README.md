@@ -1,4 +1,4 @@
-# vue_drawtool
+# vue-drawtool
 
 ## Project setup
 ```
